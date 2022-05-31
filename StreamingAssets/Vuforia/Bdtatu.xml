@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="reno" size="100.000000 121.233276" />
-    <ImageTarget name="elefante" size="100.000000 70.447281" />
-    <ImageTarget name="avispa" size="100.000000 82.500000" />
-    <ImageTarget name="20220104" size="50.000000 28.125000" />
-  </Tracking>
-</QCARConfig>
